@@ -1,0 +1,16 @@
+Order_ID,Order_Date,Customer_ID,Region,Product_Category,Product_Name,Sales_Amount,Quantity,Discount,Profit,Payment_Mode,Shipping_Time_Days
+1001,2024-01-05,C001,South,Electronics,Smartphone,15000,1,0.1,3000,UPI,3
+1002,2024-01-06,C002,North,Furniture,Office Chair,7000,2,0.15,1200,Credit Card,5
+1003,2024-01-07,C003,West,Clothing,T-Shirt,800,3,0.05,200,Cash,2
+1004,2024-01-08,C004,East,Electronics,Laptop,55000,1,0.08,7000,Debit Card,4
+1005,2024-01-09,C005,South,Groceries,Rice Bag,1200,2,0.02,150,UPI,1
+1006,2024-01-10,C006,North,Electronics,Headphones,2000,2,0.12,400,Credit Card,3
+1007,2024-01-11,C007,West,Furniture,Table,9000,1,0.1,1800,UPI,6
+1008,2024-01-12,C008,East,Clothing,Jeans,1500,2,0.07,300,Cash,2
+1009,2024-01-13,C009,South,Electronics,Tablet,18000,1,0.09,2500,Debit Card,4
+1010,2024-01-14,C010,North,Groceries,Oil Can,2500,1,0.03,200,UPI,2
+1011,2024-01-15,C011,West,Clothing,Jacket,3000,1,0.1,500,Credit Card,3
+1012,2024-01-16,C012,East,Furniture,Sofa,25000,1,0.2,4000,Debit Card,7
+1013,2024-01-17,C013,South,Electronics,Smartwatch,5000,2,0.15,900,UPI,3
+1014,2024-01-18,C014,North,Clothing,Shoes,2000,2,0.08,350,Cash,2
+1015,2024-01-19,C015,West,Groceries,Sugar,1000,3,0.05,120,UPI,1
